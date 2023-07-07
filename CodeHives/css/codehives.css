@@ -27,12 +27,18 @@ body{
     height:500px;
     width:550px;  
 }
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .ch-right{
     border: 2px solid rgba(55, 55, 68, 0.08);
     box-shadow:  -4px 3px 10px 0px rgba(82, 102, 70, 0.152);
     padding:30px 50px 0px 50px;
     margin:30px 90px 30px 50px;
-    background-color: #FCFCFC;;
+    background-color: #FCFCFC;
+    box-sizing: border-box;
 }
 .big-text{
     font-size: 35px;
@@ -137,6 +143,11 @@ input:focus + .F1, input:valid + .F1{
 }
 .sign-in-btn{
     margin:20px 0 10px 0;
+}
+.sign-in-btn .mid-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .mid-text p{
     color:white;

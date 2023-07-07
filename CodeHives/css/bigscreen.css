@@ -1,0 +1,71 @@
+.container{
+    max-width:1550px;
+    margin:0 auto;
+}
+
+.ch-left img {
+    height: 820px;
+    width: 735px;
+}
+.ch-right {
+    padding: 70px 50px 50px 50px;
+    margin: 30px 80px 30px 50px;
+}
+.big-text {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 65px;
+    margin-bottom: 35px;
+}
+.fields {
+    height: 85px;
+}
+.before-f1 {
+    width: 450px;
+}
+.forgot-content .small-text {
+    font-size: 20px;
+}
+.mid-text p {
+    width: 480px;
+    padding: 10px 0 10px 0;
+}
+p {
+    font-size: 20px;
+}
+.sign-in-btn {
+    margin: 30px 0 15px 0;
+}
+.sign-ggl {
+    border-radius: 40px;
+    width: 480px;
+    height: 60px;
+}
+.sign-ggl span{
+    font-size:20px;
+}
+.sign-up1 .mid-text {
+    font-size: 18px;
+    font-weight: 400;
+}
+.sign-up1 .mid-text span {
+    font-size: 20px;
+}
+
+
+
+
+
+/* -----------------------------------------------------------
+---------------------------page 2-----------------------------
+----------------------------------------------------------- */
+
+
+
+.ch2-left img {
+    height: 820px;
+    width: 735px;
+}
+.sign-up2 .mid-text {
+    font-size: 18px;
+}
